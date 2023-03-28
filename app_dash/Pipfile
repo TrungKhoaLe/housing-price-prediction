@@ -10,7 +10,10 @@ numpy = "*"
 pandas = "*"
 dash-bootstrap-components = "*"
 sqlalchemy = "==1.4.47"
-pydot = "*"
+flask-caching = "*"
+redis = "*"
+graphviz = "*"
+pydot = "==1.4.1"
 
 [dev-packages]
 
